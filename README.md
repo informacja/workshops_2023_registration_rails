@@ -1,5 +1,5 @@
 # Hiper-prosta apka TODO-list
-
+![1](image.png)
 ## Co tu jest grane?
 Hej!
 Przed Tobą hiper-super-mega-prosta aplikacja typu **TODO list**.
