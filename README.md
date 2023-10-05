@@ -1,6 +1,10 @@
 # Hiper-prosta apka TODO-list
 ![1](image.png)
 ![2](image-1.png)
+
+### Tylko na widokach
+
+![3](image-2.png)
 ## Co tu jest grane?
 Hej!
 Przed Tobą hiper-super-mega-prosta aplikacja typu **TODO list**.
